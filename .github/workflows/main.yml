@@ -1,4 +1,4 @@
-name: CI
+name: local CI
 on:
   push:
     tags-ignore: [dev]
