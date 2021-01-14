@@ -2,6 +2,7 @@ name: CI
 on:
   push:
     tags-ignore: [dev]
+    branches: [main, ci]    
 defaults:
   run:
     shell: bash
