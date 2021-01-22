@@ -1,3 +1,4 @@
+#
 [package]
 name = "wasmtime-cli"
 version = "0.22.0"
